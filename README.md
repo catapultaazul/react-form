@@ -11,4 +11,4 @@
 
 <h2>About this project</h2>
 
-<p>Letmeask, created during Aluras's ReactJS Formation. This application was developed to practice function react components and data validation, as well as implement Material UI.</p>
+<p>React Form, created during Aluras's ReactJS Formation. This application was developed to practice function react components and data validation, as well as implement Material UI.</p>
